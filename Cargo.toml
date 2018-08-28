@@ -1,0 +1,6 @@
+[package]
+name = "disco_gif"
+version = "0.1.0"
+authors = ["Benjamin Delmas <bdelmas.pro@gmail.com>"]
+
+[dependencies]
